@@ -1,0 +1,24 @@
+{
+  "name": "randomm-str-msg",
+  "version": "1.0.0",
+  "description": "AnoTher TesT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiezRu33/randomm-str-msg.git"
+  },
+  "keywords": [],
+  "author": "Mr Person <tuwea@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiezRu33/randomm-str-msg/issues"
+  },
+  "homepage": "https://github.com/DiezRu33/randomm-str-msg#readme",
+  "bin": {
+    "randomm-str-msg": "bin/global.js"
+  },
+  "preferGlobal": true
+}
